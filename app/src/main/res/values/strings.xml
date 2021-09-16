@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Custom Intent</string>
+    <string name="echo">Echo:</string>
 </resources>
